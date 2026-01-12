@@ -1,0 +1,5 @@
+{
+  "name": "BIM-GIS Modular Platform",
+  "description": "A comprehensive dashboard for BIM/GIS integration, automated building code checking, and Colab-ready Python code generation.",
+  "requestFramePermissions": []
+}
